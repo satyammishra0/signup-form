@@ -10,6 +10,7 @@
 
 <body>
     <div class="container" style="margin-top: 50px;">
+<!-- main login form here  -->
         <form class="form" action="./validate_form.php" method="POST">
             <h2>Please Enter Your Details</h2>
             <div class="form-group">
